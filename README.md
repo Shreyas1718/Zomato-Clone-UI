@@ -1,4 +1,4 @@
-# zomatoui
+# Zomato Clone UI
 
 A new Flutter application.
 
